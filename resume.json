@@ -1,0 +1,231 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Clément Verger",
+        "label": "Développeur web chez Pando Studio ",
+        "image": "",
+        "email": "clemeverger@gmail.com",
+        "phone": "0658183228",
+        "url": "",
+        "summary": "",
+        "location": {
+            "countryCode": "FR",
+            "address": "7 rue de la girouette 79300 Bressuire"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "clemeverger",
+                "url": "https://www.linkedin.com/in/clemeverger/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Pando Studio",
+            "position": "Développeur web",
+            "startDate": "2021-10-31",
+            "endDate": "",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/pando-studio/"
+        },
+        {
+            "name": "Saft",
+            "position": "Développeur web",
+            "startDate": "2020-09-30",
+            "endDate": "2021-09-30",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/saft/",
+            "location": "Poitiers, Nouvelle-Aquitaine, France"
+        },
+        {
+            "name": "PVT Australie",
+            "position": "Working Holiday Visa ",
+            "startDate": "2019-01-31",
+            "endDate": "2020-01-31",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/pvt-australie/",
+            "location": "Australie"
+        },
+        {
+            "name": "Puy du Fou",
+            "position": "Développeur web",
+            "startDate": "2017-12-31",
+            "endDate": "2018-05-31",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/puydufou/",
+            "location": "Les Epesses, Pays de la Loire, France"
+        },
+        {
+            "name": "Thales",
+            "position": "Technicien électronique",
+            "startDate": "2016-01-31",
+            "endDate": "2016-06-30",
+            "highlights": [],
+            "url": "https://www.linkedin.com/company/thales/",
+            "location": "Cholet, Pays de la Loire, France"
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "ECV Digital",
+            "area": "Développeur web",
+            "studyType": "Master",
+            "startDate": "2021-09-30",
+            "endDate": "2023-09-30",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Université de Poitiers",
+            "area": "Développeur web",
+            "studyType": "Licence professionnelle",
+            "startDate": "2020-12-31",
+            "endDate": "2021-12-31",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Saint Gab'",
+            "area": "",
+            "studyType": "Brevet de Technicien Supérieur Système Numérique Informatique et Réseaux",
+            "startDate": "2017-12-31",
+            "endDate": "2018-12-31",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Saint Gab'",
+            "area": "",
+            "studyType": "Brevet de Technicien Supérieur Système Numérique Electronique et Communications",
+            "startDate": "2015-12-31",
+            "endDate": "2017-12-31",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Lycée Jean Moulin",
+            "area": "",
+            "studyType": "Baccalauréat Sciences et Technologies de l'Industrie et du Développement Durable ",
+            "startDate": "2013-12-31",
+            "endDate": "2015-12-31",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "certificates": [
+        {
+            "name": "Certification Opquast : Maîtrise de la qualité en projet web - 800 points",
+            "issuer": "Opquast",
+            "startDate": "2022-05-31",
+            "url": "https://oqs.li/OWS6KC"
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Express.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Next.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "TypeScript",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Solidity",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Node.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Gsap",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Framer Motion",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Web 3",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Three.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "R3F",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "HTML / CSS / JS",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Figma",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Git",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Vue.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "React.js",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "React Native",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Gestion de projet",
+            "level": "",
+            "keywords": []
+        }
+    ],
+    "languages": [
+        {
+            "language": "Français",
+            "fluency": "Native Speaker"
+        },
+        {
+            "fluency": "Full Professional",
+            "language": "Anglais"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+        "version": "v1.0.0",
+        "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+}
