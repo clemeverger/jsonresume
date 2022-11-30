@@ -26,6 +26,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           yarn install
-          yarn resumed render resume.json --theme jsonresume-theme-dark-classy-responsive
+          npx resumed render resume.json --theme jsonresume-theme-dark-classy-responsive
           mkdir public
           mv resume.html public/index.html
